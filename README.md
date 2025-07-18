@@ -1,4 +1,4 @@
-Nimap Java Machine Test
+
 Overview
 This is a Spring Boot application that demonstrates CRUD (Create, Read, Update, Delete) operations on a MySQL database. The project is built using Hibernate for ORM, JPA for data persistence, and is configured to use a MySQL database.
 
