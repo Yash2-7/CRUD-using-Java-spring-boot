@@ -1,0 +1,14 @@
+# IDE files
+.metadata/
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+
